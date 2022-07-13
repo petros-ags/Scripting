@@ -1,5 +1,5 @@
 # Scripting
-Windows Scripts 
+### Windows Scripts 
 
 ### These scripts are created in order to automate daily dasks as much as possible.
 ### They are compatible with Windows 10/11.
@@ -7,4 +7,4 @@ Windows Scripts
 ### Not compatible with MacOS
 ### Creation of scripts using bash (Ubuntu OS) pending
 
-THIS IS A WORK IN PROGRESS, NOT FINISHED YET.
+### THIS IS A WORK IN PROGRESS, NOT FINISHED YET.
